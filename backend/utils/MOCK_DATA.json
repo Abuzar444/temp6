@@ -1,0 +1,362 @@
+[
+  {
+    "id": 1,
+    "name": "Advanced React Native Development",
+    "instructor": "Jane Smith",
+    "description": "Take your React Native skills to the next level with advanced topics and best practices.",
+    "enrollmentStatus": "Open",
+    "thumbnail": "your.image.here",
+    "duration": "10 weeks",
+    "schedule": "Mondays and Wednesdays, 7:00 PM - 9:00 PM",
+    "location": "Online",
+    "prerequisites": ["Introduction to React Native"],
+    "syllabus": [
+      {
+        "week": 1,
+        "topic": "State Management in React Native",
+        "content": "Exploring state management libraries like Redux and MobX."
+      },
+      {
+        "week": 2,
+        "topic": "Advanced UI/UX Design",
+        "content": "Designing complex user interfaces and animations."
+      }
+    ],
+    "students": [
+      {
+        "id": 201,
+        "name": "Ella Davis",
+        "email": "ella@example.com"
+      },
+      {
+        "id": 202,
+        "name": "James Wilson",
+        "email": "james@example.com"
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "name": "Node.js Backend Development",
+    "instructor": "David Brown",
+    "description": "Learn how to build scalable and efficient backend services using Node.js.",
+    "enrollmentStatus": "Open",
+    "thumbnail": "your.image.here",
+    "duration": "12 weeks",
+    "schedule": "Tuesdays and Thursdays, 6:30 PM - 8:30 PM",
+    "location": "Online",
+    "prerequisites": ["Basic JavaScript knowledge"],
+    "syllabus": [
+      {
+        "week": 1,
+        "topic": "Introduction to Node.js",
+        "content": "Getting started with Node.js and its core concepts."
+      },
+      {
+        "week": 2,
+        "topic": "RESTful API Development",
+        "content": "Creating RESTful APIs with Express.js."
+      }
+    ],
+    "students": [
+      {
+        "id": 301,
+        "name": "Olivia Smith",
+        "email": "olivia@example.com"
+      },
+      {
+        "id": 302,
+        "name": "Liam Johnson",
+        "email": "liam@example.com"
+      }
+    ]
+  },
+  {
+    "id": 3,
+    "name": "Introduction to Python Programming",
+    "instructor": "Sarah Adams",
+    "description": "Get started with the fundamentals of Python programming language.",
+    "enrollmentStatus": "Open",
+    "thumbnail": "your.image.here",
+    "duration": "6 weeks",
+    "schedule": "Mondays and Wednesdays, 6:00 PM - 8:00 PM",
+    "location": "Online",
+    "prerequisites": ["None"],
+    "syllabus": [
+      {
+        "week": 1,
+        "topic": "Basic Syntax and Variables",
+        "content": "Understanding Python syntax and working with variables."
+      },
+      {
+        "week": 2,
+        "topic": "Control Flow and Functions",
+        "content": "Learn about loops, conditionals, and defining functions."
+      }
+    ],
+    "students": [
+      {
+        "id": 401,
+        "name": "Sophia Wilson",
+        "email": "sophia@example.com"
+      },
+      {
+        "id": 402,
+        "name": "Jackson Davis",
+        "email": "jackson@example.com"
+      }
+    ]
+  },
+  {
+    "id": 4,
+    "name": "Web Design with HTML and CSS",
+    "instructor": "Emily Johnson",
+    "description": "Learn the basics of creating websites with HTML and CSS.",
+    "enrollmentStatus": "Open",
+    "thumbnail": "your.image.here",
+    "duration": "8 weeks",
+    "schedule": "Tuesdays and Thursdays, 7:00 PM - 9:00 PM",
+    "location": "Online",
+    "prerequisites": ["None"],
+    "syllabus": [
+      {
+        "week": 1,
+        "topic": "HTML Fundamentals",
+        "content": "Building the structure of a web page with HTML."
+      },
+      {
+        "week": 2,
+        "topic": "CSS Styling and Layouts",
+        "content": "Styling web pages with CSS and creating layouts."
+      }
+    ],
+    "students": [
+      {
+        "id": 501,
+        "name": "Aiden Smith",
+        "email": "aiden@example.com"
+      },
+      {
+        "id": 502,
+        "name": "Mia Davis",
+        "email": "mia@example.com"
+      }
+    ]
+  },
+  {
+    "id": 5,
+    "name": "Mobile App UX/UI Design",
+    "instructor": "Daniel Brown",
+    "description": "Learn how to create user-friendly interfaces for mobile applications.",
+    "enrollmentStatus": "Open",
+    "thumbnail": "your.image.here",
+    "duration": "10 weeks",
+    "schedule": "Mondays and Wednesdays, 6:30 PM - 8:30 PM",
+    "location": "Online",
+    "prerequisites": ["Basic design knowledge"],
+    "syllabus": [
+      {
+        "week": 1,
+        "topic": "User Research and Personas",
+        "content": "Understanding user needs and creating personas."
+      },
+      {
+        "week": 2,
+        "topic": "Wireframing and Prototyping",
+        "content": "Creating wireframes and interactive prototypes."
+      }
+    ],
+    "students": [
+      {
+        "id": 601,
+        "name": "Charlotte Wilson",
+        "email": "charlotte@example.com"
+      },
+      {
+        "id": 602,
+        "name": "Liam Johnson",
+        "email": "liam@example.com"
+      }
+    ]
+  },
+  {
+    "id": 6,
+    "name": "JavaScript Frameworks: Angular, React, Vue",
+    "instructor": "Michael Davis",
+    "description": "Explore popular JavaScript frameworks for building dynamic web applications.",
+    "enrollmentStatus": "Open",
+    "thumbnail": "your.image.here",
+    "duration": "12 weeks",
+    "schedule": "Tuesdays and Thursdays, 6:00 PM - 8:00 PM",
+    "location": "Online",
+    "prerequisites": ["Intermediate JavaScript knowledge"],
+    "syllabus": [
+      {
+        "week": 1,
+        "topic": "Introduction to Angular",
+        "content": "Getting started with the Angular framework."
+      },
+      {
+        "week": 2,
+        "topic": "React Components and State",
+        "content": "Building dynamic UIs with React."
+      }
+    ],
+    "students": [
+      {
+        "id": 701,
+        "name": "Oliver Smith",
+        "email": "oliver@example.com"
+      },
+      {
+        "id": 702,
+        "name": "Ava Davis",
+        "email": "ava@example.com"
+      }
+    ]
+  },
+  {
+    "id": 7,
+    "name": "Data Science and Machine Learning with Python",
+    "instructor": "Ethan Adams",
+    "description": "Learn the foundations of data science and machine learning using Python.",
+    "enrollmentStatus": "Open",
+    "thumbnail": "your.image.here",
+    "duration": "14 weeks",
+    "schedule": "Mondays and Wednesdays, 7:00 PM - 9:00 PM",
+    "location": "Online",
+    "prerequisites": ["Intermediate Python knowledge", "Basic math skills"],
+    "syllabus": [
+      {
+        "week": 1,
+        "topic": "Introduction to Data Science",
+        "content": "Overview of data science and its applications."
+      },
+      {
+        "week": 2,
+        "topic": "Machine Learning Algorithms",
+        "content": "Exploring various ML algorithms and their implementations."
+      }
+    ],
+    "students": [
+      {
+        "id": 801,
+        "name": "Emma Wilson",
+        "email": "emma@example.com"
+      },
+      {
+        "id": 802,
+        "name": "Liam Johnson",
+        "email": "liam@example.com"
+      }
+    ]
+  },
+  {
+    "id": 8,
+    "name": "Full-Stack Web Development with MERN Stack",
+    "instructor": "Sophia Davis",
+    "description": "Learn how to build modern web applications using the MERN stack.",
+    "enrollmentStatus": "Open",
+    "thumbnail": "your.image.here",
+    "duration": "16 weeks",
+    "schedule": "Tuesdays and Thursdays, 6:30 PM - 8:30 PM",
+    "location": "Online",
+    "prerequisites": ["Basic JavaScript knowledge", "Familiarity with React"],
+    "syllabus": [
+      {
+        "week": 1,
+        "topic": "Setting Up a MERN Project",
+        "content": "Configuring a project with MongoDB, Express.js, React, and Node.js."
+      },
+      {
+        "week": 2,
+        "topic": "Backend API Development with Express",
+        "content": "Creating a RESTful API with Express.js."
+      }
+    ],
+    "students": [
+      {
+        "id": 901,
+        "name": "Liam Smith",
+        "email": "liam@example.com"
+      },
+      {
+        "id": 902,
+        "name": "Ava Davis",
+        "email": "ava@example.com"
+      }
+    ]
+  },
+  {
+    "id": 9,
+    "name": "iOS App Development with Swift",
+    "instructor": "Oliver Wilson",
+    "description": "Learn how to develop iOS applications using the Swift programming language.",
+    "enrollmentStatus": "Open",
+    "thumbnail": "your.image.here",
+    "duration": "12 weeks",
+    "schedule": "Mondays and Wednesdays, 6:00 PM - 8:00 PM",
+    "location": "Online",
+    "prerequisites": ["Basic Swift programming knowledge"],
+    "syllabus": [
+      {
+        "week": 1,
+        "topic": "Introduction to iOS Development",
+        "content": "Getting started with iOS app development and Xcode."
+      },
+      {
+        "week": 2,
+        "topic": "Building User Interfaces with SwiftUI",
+        "content": "Creating UI elements using SwiftUI."
+      }
+    ],
+    "students": [
+      {
+        "id": 1001,
+        "name": "Emma Wilson",
+        "email": "emma@example.com"
+      },
+      {
+        "id": 1002,
+        "name": "Aiden Smith",
+        "email": "aiden@example.com"
+      }
+    ]
+  },
+  {
+    "id": 10,
+    "name": "Android Development with Kotlin",
+    "instructor": "Liam Adams",
+    "description": "Learn how to build Android applications using the Kotlin programming language.",
+    "enrollmentStatus": "Open",
+    "thumbnail": "your.image.here",
+    "duration": "12 weeks",
+    "schedule": "Tuesdays and Thursdays, 7:00 PM - 9:00 PM",
+    "location": "Online",
+    "prerequisites": ["Basic Kotlin programming knowledge"],
+    "syllabus": [
+      {
+        "week": 1,
+        "topic": "Introduction to Android Development",
+        "content": "Getting started with Android Studio and Kotlin."
+      },
+      {
+        "week": 2,
+        "topic": "Working with Activities and Fragments",
+        "content": "Creating and managing UI components in Android."
+      }
+    ],
+    "students": [
+      {
+        "id": 1101,
+        "name": "Olivia Smith",
+        "email": "olivia@example.com"
+      },
+      {
+        "id": 1102,
+        "name": "Mia Davis",
+        "email": "mia@example.com"
+      }
+    ]
+  }
+]
